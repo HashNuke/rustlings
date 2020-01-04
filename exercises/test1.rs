@@ -10,6 +10,8 @@
 // Put your function here!
 // fn ..... {
 
+// I AM DONE
+
 fn calculate_apple_price(apple_count: i64) -> i64 {
   if apple_count > 40 {
     apple_count * 1

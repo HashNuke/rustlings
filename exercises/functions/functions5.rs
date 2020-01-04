@@ -1,6 +1,7 @@
 // functions5.rs
 // Make me compile! Execute `rustlings hint functions5` for hints :)
 
+// I AM DONE
 
 fn main() {
     let answer = square(3);
